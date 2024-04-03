@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func reverse() {
 	var arr = [5]int{1, 2, 3, 4, 5}
 	var n = len(arr)
 	var start = 0
